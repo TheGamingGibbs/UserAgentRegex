@@ -1,2 +1,9 @@
 \bl9explore\b
 \bl9tcpid\b
+CMS-Checker/1\.0|
+python-httpx/0\.27\.0|
+Mozilla/5\.0 zgrab/0\.x|
+RecordedFuture Global Inventory Crawler|
+Nmap Scripting Engine|
+Scanner/1\.0|
+Keydrop\.io/1\.0\(onlyscans\.com/about\)
