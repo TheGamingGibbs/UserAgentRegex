@@ -8,3 +8,6 @@
 \bScanner\b
 \bKeydrop.io\b 
 \bonlyscans.com\b
+\bGPTBot\b
+\bGooglebot\b
+\bOAI-SearchBot\b
